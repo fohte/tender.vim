@@ -39,9 +39,9 @@ hi PmenuThumb guifg=#ffc24b ctermfg=215 guibg=#ffc24b ctermbg=215 gui=NONE cterm
 hi Question guifg=#c9d05c ctermfg=185 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Search guifg=#ffffff ctermfg=15 guibg=NONE ctermbg=NONE gui=underline,bold cterm=underline,bold
 hi SpecialKey guifg=#444444 ctermfg=238 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi SpellBad guisp=#f43753
+hi SpellBad guisp=#f43753 guibg=#371B1F gui=NONE cterm=None
 hi SpellLocal guisp=#d3b987
-hi SpellCap guisp=#ffc24b
+hi SpellCap guisp=#ffc24b guibg=#3D3014 gui=NONE cterm=None
 hi SpellRare guisp=#73cef4
 hi StatusLine guifg=#1d1d1d ctermfg=234 guibg=#666666 ctermbg=242 gui=bold cterm=bold
 hi StatusLineNC guifg=#999999 ctermfg=246 guibg=#444444 ctermbg=238 gui=NONE cterm=NONE
